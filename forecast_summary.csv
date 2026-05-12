@@ -1,0 +1,4 @@
+Commodity,Latest,Forecast_30D,Forecast_Change_pct,Signal,Model_MAPE_pct
+Corn Futures,472.25,486.80,3.08,BUY/WATCH,4.20
+Wheat Futures,553.50,544.90,-1.55,HOLD,5.10
+Soybean Futures,1204.75,1238.60,2.81,BUY/WATCH,3.85
